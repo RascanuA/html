@@ -1,0 +1,30 @@
+ 
+h1{
+    text-align:center;
+    text-transform: uppercase;
+    font-style: oblique;
+    
+    color:rgb(74, 44, 8);
+}
+h2:hover{
+    background-size: auto ;
+    background-color: rgba(165, 42, 42, 0.379);
+    border-radius: 5px;
+    color: rgb(74, 44, 8);
+    text-underline-offset:auto;
+    text-decoration-line: underline;
+    width: 250px;
+}
+body{
+     background-color: #f1f1f1
+}
+p
+{
+    color: rgb(56, 41, 19);
+}
+h3{
+    color:rgb(74, 44, 8);
+    text-decoration-line: underline;
+ display: auto;
+}
+ 

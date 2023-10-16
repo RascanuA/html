@@ -1,0 +1,23 @@
+header{
+    text-align-last: center;
+    background-color: rgb(239, 174, 95);
+}
+  
+nav{
+    background-color:antiquewhite; 
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between;
+}
+ body{
+    background-color: rgb(161, 144, 83);
+ }
+ aside{
+    display:flex
+ }
+ img{
+    
+ }
+ footer{
+    background-color: rgb(118, 100, 45);
+ }
